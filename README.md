@@ -4,6 +4,8 @@ This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angu
 
 A minimal example of how to get the Angular Material Tree working on your own site.
 
+If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
