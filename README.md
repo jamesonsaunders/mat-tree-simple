@@ -10,7 +10,7 @@ If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube
 
 ## Installation
 
-Download or clone this project, then run `npm i` from the project directory to install its dependencies. Not familiar with NPM? Check out my <a href="https://www.youtube.com/watch?v=mzs-N5hXGuQ" target="_blank">NPM Tutorial</a>.
+Download or clone this project, then run `npm i` from the project directory to install its dependencies. Not familiar with NPM? Check out my [NPM Tutorial](https://www.youtube.com/watch?v=mzs-N5hXGuQ).
 
 ## Development server
 
