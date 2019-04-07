@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Angular Material Tree](https://youtu.be/BALaj39rbZE).
 
-[![Angular Material Tree](https://img.youtube.com/vi/BALaj39rbZE/0.jpg)](https://youtu.be/BALaj39rbZE)
+[![Angular Material Tree](https://img.youtube.com/vi/BALaj39rbZE/maxresdefault.jpg)](https://youtu.be/BALaj39rbZE)
 
 A minimal example of how to get the Angular Material Tree working on your own site.
 
